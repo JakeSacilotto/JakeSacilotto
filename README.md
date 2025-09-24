@@ -1,16 +1,23 @@
-## Hi there 👋
+# Jake Sacilotto
 
-<!--
-**JakeSacilotto/JakeSacilotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Simon Fraser University  
+💻 Passionate about **AI, Computer Vision, and Software Development**   
+🌱 Currently learning: **Deep Learning, Data Visualization, and Full-Stack Tools**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Languages:** Python, C++, C  
+- **Libraries & Frameworks:** TensorFlow, OpenCV, Streamlit, Plotly, Tkinter  
+- **Concepts:** Machine Learning, Data Visualization, GUI Development  
+
+---
+
+## 📌 Featured Projects
+- 🧠 **[Smile Engagement Tracker](https://github.com/JakeSacilotto/Smile-Tracker):** Real-time smile detection and engagement analysis.  
+- 💰 **[Personal Finance Tracker](https://github.com/JakeSacilotto/Personal-Finance-Tracker):** Interactive budgeting app with Streamlit + Plotly.  
+
+---
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/jake-sacilotto-b81708385/)  
