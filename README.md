@@ -1,8 +1,8 @@
 # Jake Sacilotto
 
 🎓 Computer Science Student at Simon Fraser University  
-💻 Passionate about **AI, Computer Vision, and Software Development**   
-🌱 Currently learning: **Deep Learning, Data Visualization, and Full-Stack Tools**  
+- Passionate about **AI, Computer Vision, and Software Development**   
+- Currently learning: **Deep Learning, Data Visualization, and Full-Stack Tools**  
 
 ---
 
