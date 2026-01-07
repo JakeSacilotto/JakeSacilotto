@@ -14,9 +14,9 @@
 ---
 
 ## 📌 Featured Projects
-- 🧠 **[Smile Engagement Tracker](https://github.com/JakeSacilotto/Smile-Tracker):** Real-time smile detection and engagement analysis.  
-- 💰 **[Personal Finance Tracker](https://github.com/JakeSacilotto/Personal-Finance-Tracker):** Interactive budgeting app with Streamlit + Plotly.
-- ⏱️ **[StudyQuest](https://github.com/R433N/user_service):** Team-based full-stack web app built with FastAPI, Docker, and PostgreSQL. Implemented secure user authentication, protected API endpoints, and deployed the service using Render. Includes a social study timer with friends, session tracking, and leaderboards, developed using an Agile workflow under tight deadlines.
+-  **[Smile Engagement Tracker](https://github.com/JakeSacilotto/Smile-Tracker):** Real-time smile detection and engagement analysis.  
+-  **[Personal Finance Tracker](https://github.com/JakeSacilotto/Personal-Finance-Tracker):** Interactive budgeting app with Streamlit + Plotly.
+-  **[StudyQuest](https://github.com/R433N/user_service):** Team-based full-stack web app built with FastAPI, Docker, and PostgreSQL. Implemented secure user authentication, protected API endpoints, and deployed the service using Render. Includes a social study timer with friends, session tracking, and leaderboards, developed using an Agile workflow under tight deadlines.
 
 ---
 
